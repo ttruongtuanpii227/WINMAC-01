@@ -107,9 +107,9 @@ const initMainContent = () => {
         <div class="row">
         <div class="r2t4b3g5E4">
             <div class="h7M2O6P2A6" style="text-align:center">
-            <span class="O1j7I8N1d6"><img src="images/ok2.png"> Connect With Support :+</span>
+            <span class="O1j7I8N1d6"><img src="images/ok2.png"> Connect With Support :</span>
             <span style="font-weight:700;padding-left:13px;color:#fff">
-                <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">
+                +<span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">
                 <span class="fewvwevwfewgewr"></span>
                 </span>
             </span>
