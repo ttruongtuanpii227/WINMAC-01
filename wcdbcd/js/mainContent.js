@@ -57,7 +57,7 @@ const initMainContent = () => {
         <div class="l5G8C4Z4t6">
         Access has been blocked to protect your device.<br>
         <span class="Y1E6M2Z2a8">
-            Contact Agent Now : +<span class="fewvwevwfewgewr"></span>
+            Contact Agent Now : <span class="fewvwevwfewgewr">+</span>
         </span>
         </div>
 
