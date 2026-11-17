@@ -96,7 +96,7 @@ const initMainContent = () => {
         <br/><br/>
 
         <p style="padding-bottom:0;color:#fff;font-size:14px">
-        Reach Support Now (Free Call): <strong><span class="fewvwevwfewgewr"></span></strong>
+        Reach Support Now (Free Call): +<strong><span class="fewvwevwfewgewr"></span></strong>
         <div class="b1c9D7Y7V3">
             <a class="active" style="cursor:pointer;color:#fff!important">Get Assistance</a>
             <a class="active" style="color:#fff!important">Find Out More</a>
